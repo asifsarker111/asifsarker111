@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a passionate **Developer** specializing in cre
 - He/Him
 
 ### ⚡ Fun Fact:
-- 🌟 Ready to dive into the quirky side of coding? 🚀 Join me for a rollercoaster of laughs and coding adventures that you won't want to miss.
+-✨ Want to get lost in the fun world of coding? 😄 Join me for a mix of laughs and coding adventures!
 
 Thanks for visiting! Feel free to explore my projects and connect with me for collaboration.
