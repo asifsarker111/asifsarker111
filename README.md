@@ -1,3 +1,10 @@
+(<p align="center">   <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> </p>)
+
+
+
+
+
+
 
 <h1 align="center"># Hi there, I'm Asif 👋</h1>
 Welcome to my GitHub profile! I'm a passionate **Developer** specializing in creating modern, clean, and user-friendly web experiences.
@@ -49,14 +56,6 @@ Thanks for visiting! Feel free to explore my projects and connect with me for co
 </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsarker111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asifsarker/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/asifsarker)  
-
-
-
-
-
-  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifsarker111&label=Profile%20views&color=0e75b6&style=flat" alt="asifsarker111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifsarker111" alt="asifsarker111" /></a> </p>
@@ -66,6 +65,10 @@ Thanks for visiting! Feel free to explore my projects and connect with me for co
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifsarker111&show_icons=true&locale=en" alt="asifsarker111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifsarker111&" alt="asifsarker111" /></p>
+ 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asifsarker111/contributions?format=svg&private=false)  
+
+
 
 
 
