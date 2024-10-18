@@ -1,10 +1,3 @@
-![](https://arturssmir<p align="center">   <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> </p>novs.github.io/github-profile-readme-generator/images/banner.png)
-
-
-
-
-
-
 
 <h1 align="center"># Hi there, I'm Asif 👋</h1>
 Welcome to my GitHub profile! I'm a passionate **Developer** specializing in creating modern, clean, and user-friendly web experiences.
@@ -51,15 +44,13 @@ Thanks for visiting! Feel free to explore my projects and connect with me for co
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifsarker111&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsarker111)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asifsarker111/contributions?format=svg&private=false)  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![GitHub metrics](https://metrics.lecoq.io/asifsarker111)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asifsarker111)  
-
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsarker111)  
