@@ -1,5 +1,5 @@
 <p align="center">   
-    <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> 
+    <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%" height="200px"> 
 </p>
 
 <h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif;">👋 Hi there, I'm Asif</h1>
@@ -92,6 +92,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifsarker111&show_icons=true&locale=en&layout=compact" alt="asifsarker111" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifsarker111&show_icons=true&locale=en" alt="asifsarker111" /></p>
-
-<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifsarker111&show_icons=true&locale
