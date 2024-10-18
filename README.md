@@ -1,5 +1,5 @@
 <p align="center">   
-    <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%" height="300px"> 
+    <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%" height="400px"> 
 </p>
 
 <h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif;">👋 Hi there, I'm Asif</h1>
