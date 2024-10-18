@@ -1,5 +1,7 @@
-<p align="center">   
-    <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%" height="400px"> 
+<p align="center">
+    <a href="https://www.canva.com/design/DAGT8xRDsqk/z9LvPdMaGkC3eUzrCdMS0w/watch?utm_content=DAGT8xRDsqk&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+        <img src="https://i.postimg.cc/your_thumbnail_image.png" alt="Watch My Video" width="100%">
+    </a>
 </p>
 
 <h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif;">👋 Hi there, I'm Asif</h1>
