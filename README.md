@@ -1,6 +1,6 @@
 # Hi there, I'm Asif 👋
 
-https://www.canva.com/design/DAGT6gpCGok/ka4D65grS-LffpJ8V1T74w/edit?utm_content=DAGT6gpCGok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://i.postimg.cc/PJpm7McK/Untitled.png
 
 Welcome to my GitHub profile! I'm a passionate **Developer** specializing in creating modern, clean, and user-friendly web experiences.
 
