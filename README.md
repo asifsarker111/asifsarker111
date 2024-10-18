@@ -4,6 +4,10 @@
 
 Welcome to my GitHub profile! I'm a passionate **Designer** and **Developer** specializing in creating modern, clean, and user-friendly web experiences.
 
+### 💼 Skills:
+- **Experienced in**: JavaScript, React, Node.js, MongoDB
+- **Styling**: Tailwind CSS, Bootstrap
+- 
 ### 🔭 Currently Working On:
 - **NeoCalcX:** A feature-rich calculator app with a modern interface.
 - **Personal Portfolio Website:** Showcasing my skills, projects, and achievements.
