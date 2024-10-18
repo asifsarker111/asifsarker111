@@ -1,6 +1,6 @@
 # Hi there, I'm Asif 👋
 
-![](https://i.postimg.cc/PJpm7McK/Untitled.png)
+(https://i.postimg.cc/3wMKFXgK/Untitled-design-1.png)
 
 
 - 🔭 I’m currently working on this page. 
