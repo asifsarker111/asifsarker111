@@ -1,4 +1,4 @@
-(<p align="center">   <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> </p>)
+<p align="center">   <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> </p>
 
 
 
