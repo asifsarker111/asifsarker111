@@ -1,8 +1,7 @@
 <h1 align="center"># Hi there, I'm Asif 👋</h1>
-  ![](https://i.postimg.cc/3wMKFXgK/Untitled-design-1.png)
+![](https://arturssmir<p align="center">   <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%"> </p>novs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-- 🔭 I’m currently working on this page. 
 
 
 
