@@ -10,7 +10,7 @@
     <p>I am a dedicated web developer with a passion for creating innovative and user-centric solutions. My expertise lies in leveraging modern technologies to deliver high-quality applications that enhance user experiences.</p>
      <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-<br>
+
 <div>
     <h3 style="color: #D5006D;">💼 Skills:</h3>
     <ul>
@@ -35,16 +35,18 @@
 <div>
     <h3 style="color: #D5006D;">👯 Looking to Collaborate On:</h3>
     <p><strong>Open-source web projects</strong> where I can contribute my design and development skills.</p>
+      <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-<br>
+
 <div>
     <h3 style="color: #D5006D;">🤔 Looking For Help With:</h3>
     <ul>
         <li>Improving the performance of my web projects.</li>
         <li>Learning best practices in <strong>full-stack development</strong>.</li>
     </ul>
+      <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-<br>
+
 <div>
     <h3 style="color: #D5006D;">💬 Ask Me About:</h3>
     <ul>
@@ -53,8 +55,6 @@
     </ul>
      <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-<br>
-
 
 <h3 align="left" style="color: #D5006D;">Languages and Tools:</h3>
 <p align="center">
@@ -82,8 +82,7 @@
     <a href="https://linkedin.com/in/asif-sarker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
     <a href="https://twitter.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
     <a href="https://instagram.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-    <a href="mailto:gbasifsarker078@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="Gmail" width="40" height="40" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](gbasifsarker078@gmail.com)  
 </a>
      <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </p>
