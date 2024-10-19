@@ -82,9 +82,7 @@
     <a href="https://linkedin.com/in/asif-sarker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
     <a href="https://twitter.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
     <a href="https://instagram.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](gbasifsarker078@gmail.com)  
-</a>
-     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
+<hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </p>
 
 <p align="left">
