@@ -8,8 +8,9 @@
 <div style="text-align: center;">
     <h3 style="color: #D5006D;">🌱 About Me:</h3>
     <p>I am a dedicated web developer with a passion for creating innovative and user-centric solutions. My expertise lies in leveraging modern technologies to deliver high-quality applications that enhance user experiences.</p>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-
+<br>
 <div>
     <h3 style="color: #D5006D;">💼 Skills:</h3>
     <ul>
@@ -22,19 +23,20 @@
         <li>🎨 <strong>Tailwind CSS</strong></li>
         <li>🎨 <strong>Bootstrap</strong></li>
     </ul>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
-
 
 <div>
     <h3 style="color: #D5006D;">🌱 Currently Learning:</h3>
     <p><strong>Advanced JavaScript</strong> and <strong>React</strong>: To build dynamic and responsive web applications.</p>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
 
 <div>
     <h3 style="color: #D5006D;">👯 Looking to Collaborate On:</h3>
     <p><strong>Open-source web projects</strong> where I can contribute my design and development skills.</p>
 </div>
-
+<br>
 <div>
     <h3 style="color: #D5006D;">🤔 Looking For Help With:</h3>
     <ul>
@@ -42,26 +44,20 @@
         <li>Learning best practices in <strong>full-stack development</strong>.</li>
     </ul>
 </div>
-
+<br>
 <div>
     <h3 style="color: #D5006D;">💬 Ask Me About:</h3>
     <ul>
         <li>🌐 <strong>Web Design</strong>: Clean, modern, and responsive designs.</li>
         <li>📊 <strong>Frontend Development</strong>: HTML, CSS (with a focus on CSS Grid), JavaScript, and more.</li>
     </ul>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </div>
+<br>
 
-<div>
-    <h3 style="color: #D5006D;">📫 How to Reach Me:</h3>
-    <p>Email: <a href="mailto:gbasifsarker078@gmail.com">gbasifsarker078@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/asif-sarker5">Asif Sarker</a></p>
-    <p>GitHub: <a href="https://github.com/asifsarker111">asifsarker111</a></p>
-</div>
-
-<h3 align="center" style="color: #D5006D;">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left" style="color: #D5006D;">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
     <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
@@ -78,6 +74,7 @@
     <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
     <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </p>
 
 <h3 align="left" style="color: #D5006D;">Connect with me:</h3>
@@ -85,6 +82,10 @@
     <a href="https://linkedin.com/in/asif-sarker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
     <a href="https://twitter.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
     <a href="https://instagram.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+    <a href="mailto:gbasifsarker078@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="Gmail" width="40" height="40" />
+</a>
+     <hr style="border: 1px solid #D5006D; margin: 20px 0;">
 </p>
 
 <p align="left">
