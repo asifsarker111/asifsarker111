@@ -1,33 +1,53 @@
 <p align="center">   
     <img src="https://i.postimg.cc/PJpm7McK/Untitled.png" alt="Centered Banner" width="100%" height="400px"> 
+    <img src="https://komarev.com/ghpvc/?username=asifsarker111&label=Profile%20views&color=0e75b6&style=flat" alt="asifsarker111" style="position: absolute; top: 20px; right: 20px;" />
 </p>
-<h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif;">👋 Hi there, I'm Asif</h1>
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.2em;">Welcome to my GitHub profile! I'm a passionate <strong>Developer</strong> specializing in creating modern, clean, and user-friendly web experiences.</p>
+<h1 align="center">👋 Hi there, I'm Asif</h1>
+<p align="center" style="font-size: 1.2em;">Welcome to my GitHub profile! I'm a passionate <strong>Developer</strong> specializing in creating modern, clean, and user-friendly web experiences.</p>
 
-<div style="text-align: center; animation: fadeIn 2s;">
-    <h3 style="color: #D5006D;">🌱 Always Growing:</h3>
-    <p>🔧 <strong>Advanced JavaScript & React</strong>: Mastering modern frameworks to create dynamic, responsive web apps.</p>
+<div style="text-align: center;">
+    <h3 style="color: #D5006D;">🌱 About Me:</h3>
+    <p>I am a dedicated web developer with a passion for creating innovative and user-centric solutions. My expertise lies in leveraging modern technologies to deliver high-quality applications that enhance user experiences.</p>
 </div>
 
-<div style="animation: slideIn 1s;">
-    <h3 style="color: #D5006D;">💼 Skills:</h3>
-    <ul>
-        <li><strong>Experienced in:</strong> JavaScript, React, Node.js, MongoDB</li>
-        <li><strong>Styling:</strong> Tailwind CSS, Bootstrap</li>
-    </ul>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">JavaScript</h4>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">React</h4>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">Node.js</h4>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">MongoDB</h4>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">Bootstrap</h4>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="border: 2px solid #D5006D; border-radius: 10px; padding: 20px; margin: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <h4 style="text-align: center; color: #D5006D;">Tailwind CSS</h4>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="display: block; margin: 0 auto;" />
+    </div>
 </div>
 
-<div style="animation: fadeIn 2s;">
+<div>
     <h3 style="color: #D5006D;">🌱 Currently Learning:</h3>
     <p><strong>Advanced JavaScript</strong> and <strong>React</strong>: To build dynamic and responsive web applications.</p>
 </div>
 
-<div style="animation: slideIn 1s;">
+<div>
     <h3 style="color: #D5006D;">👯 Looking to Collaborate On:</h3>
     <p><strong>Open-source web projects</strong> where I can contribute my design and development skills.</p>
 </div>
 
-<div style="animation: fadeIn 2s;">
+<div>
     <h3 style="color: #D5006D;">🤔 Looking For Help With:</h3>
     <ul>
         <li>Improving the performance of my web projects.</li>
@@ -35,15 +55,15 @@
     </ul>
 </div>
 
-<div style="animation: slideIn 1s;">
+<div>
     <h3 style="color: #D5006D;">💬 Ask Me About:</h3>
     <ul>
-        <li><strong>Web Design</strong>: Clean, modern, and responsive designs.</li>
-        <li><strong>Frontend Development</strong>: HTML, CSS (with a focus on CSS Grid), JavaScript, and more.</li>
+        <li>🌐 <strong>Web Design</strong>: Clean, modern, and responsive designs.</li>
+        <li>📊 <strong>Frontend Development</strong>: HTML, CSS (with a focus on CSS Grid), JavaScript, and more.</li>
     </ul>
 </div>
 
-<div style="animation: fadeIn 2s;">
+<div>
     <h3 style="color: #D5006D;">📫 How to Reach Me:</h3>
     <p>Email: <a href="mailto:gbasifsarker078@gmail.com">gbasifsarker078@gmail.com</a></p>
     <p>LinkedIn: <a href="https://linkedin.com/in/asif-sarker5">Asif Sarker</a></p>
@@ -77,10 +97,6 @@
     <a href="https://linkedin.com/in/asif-sarker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
     <a href="https://twitter.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
     <a href="https://instagram.com/asifsarker111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=asifsarker111&label=Profile%20views&color=0e75b6&style=flat" alt="asifsarker111" />
 </p>
 
 <p align="left">
