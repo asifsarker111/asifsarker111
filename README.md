@@ -1,53 +1,17 @@
 <div align="center">
-
-# 💫 About Me:
-<p>I am an aspiring web developer on a thrilling journey to transform ideas into reality. With a deep-rooted passion for learning, I dedicate myself to mastering new technologies and honing my skills every day. Each project I undertake serves as a stepping stone toward my goal of building innovative, user-centric web solutions.</p> <p>I believe that challenges are opportunities for growth, and I am excited to embrace them as I strive to leave a positive mark on the digital landscape. My mission is to create not just functional websites, but meaningful experiences that resonate with users. I’m committed to continuously improving my craft and exploring new avenues in web development, ready to collaborate and learn from others in this dynamic field.</p>
-<hr style="border: 1px solid #D5006D; margin: 20px 0;"><br>
-
-</div>
-
-<div align="center">
-
-<h3 style="color: #D5006D;">🌱 Currently Learning:</h3><br>
-<p><strong>Advanced JavaScript</strong> and <strong>React</strong>: Focusing on mastering state management, hooks, and component lifecycles to build dynamic and responsive web applications. I am also exploring <strong>Redux</strong> for better state management and <strong>Next.js</strong> for server-side rendering capabilities.</p><br>
-     
-<hr style="border: 1px solid #D5006D; margin: 20px 0;"><br>
-
-</div>
-
-<div align="center">
-
-
-## 👯Looking to Collaborate On:<br>
-<p><strong>Open-source web projects</strong> in:</p> 
-🌐Responsive Design: Creating user-friendly interfaces.<br>JavaScript Frameworks: Enhancing functionality with libraries like React.<br>
-💡Developer Tools: Building platforms that assist web developers.<br>
-💻Full-Stack Projects: Integrating front-end and back-end development.
-<p>🧑‍🤝‍🧑Excited to collaborate and contribute my web development skills!</p>
-<hr style="border: 1px solid #D5006D; margin: 20px 0;"><br>
-
-</div>
-
-<div align="center">
-
-
- ## 🤔 Looking For Help With:<br>         
-   ✅Improving the performance of my web projects.       
-   ✅Learning best practices in <strong>full-stack development</strong>. 
-      
-<hr style="border: 1px solid #D5006D; margin: 20px 0;"><br>
-
-</div>
-
-<div align="center">
-
-
- ## 💬 Ask Me About:</h3><br>    
-  ♻️<strong>Web Design</strong>: Clean, modern, and responsive designs.        
-  📊<strong>Frontend Development</strong>: HTML, CSS (with a focus on CSS Grid), JavaScript, and more.   
-     
-<hr style="border: 1px solid #D5006D; margin: 20px 0;"><br>
-
+  
+  <h2>💫 About Me</h2>
+  <p>Aspiring web developer dedicated to creating user-friendly solutions and embracing growth.</p>
+  
+  <h3>🌱 Currently Learning:</h3>
+  <p><strong>JavaScript</strong> & <strong>React</strong>: Mastering state management and <strong>Redux</strong>.</p>
+  
+  <h3>💬 Ask Me About:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>♻️ Web Development</li>
+    <li>📊 Frontend Development</li>
+  </ul>
+  
 </div>
 
 <div align="center">
