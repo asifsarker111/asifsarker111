@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+  Hi 👋 My name is Asif Sarker
+============================
   <h2>💫 About Me</h2>
   <p>Aspiring web developer dedicated to creating user-friendly solutions and embracing growth.</p>
   
@@ -17,9 +19,14 @@
 <div align="center">
 
 ## 🌐 Socials:
+<a href="https://www.github.com/asifsarker111" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asifsarker111) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-sarker5) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gbasifsarker078)
+
+ * ✉️  You can contact me at [gbasifsarker078@gmail.com](mailto:gbasifsarker078@gmail.com)
+
 
 </div>
 
